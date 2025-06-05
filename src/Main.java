@@ -13,7 +13,7 @@ public class Main {
         Operario operario = new Operario("Romario", "Rua solar, N34", "(31)97070-7070", 45, 2000, 10,200,10);
         operario.exibirDados();
 
-        Vendedor vendedor = new Vendedor("Geovanni", "Baile da combo","(31)97070-7070",24,1200,50, 3000, 30);
+        Vendedor vendedor = new Vendedor("Geovanni", "Rua Baile da combo","(31)97070-7070",24,1200,50, 3000, 30);
         vendedor.exibirDados();
     }
 }
